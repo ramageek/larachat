@@ -1,1 +1,2 @@
-# larachat
+# LaraChat
+Laravel and Vue.
